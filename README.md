@@ -36,21 +36,6 @@ The standard Python libraries (socket, threading, collections, and time) come pr
 
 ### How to Use
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your_username/your_repository.git
-```
-
-2. Navigate to the repository:
-```bash
-cd your_repository
-```
-
-3. Run the script:
-```bash
-python lidar_script.py
-```
-
 This script is intended to be used as a module in a larger system. The 'get' method can be used to retrieve the latest LiDAR data, which is continually updated in the background.
 
 Please note that you will need to adjust the IP address of your sensor in the script (default is set to "192.168.0.1").
