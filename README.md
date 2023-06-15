@@ -4,15 +4,13 @@ This repository contains a Python script to interface and process data from the 
 
 ### Smart Sprayer System
 
-The script in this repository was used in the development of an updated version of a smart sprayer system, as described in the paper by Partel, V., Costa, L., and Ampatzidis, Y. (2021) titled "Smart tree crop sprayer utilizing sensor fusion and artificial intelligence" published in Computers and Electronics in Agriculture.
+This repository contains a script essential in the creation of an advanced smart sprayer system. This system, outlined in detail in Partel, V., Costa, L., and Ampatzidis, Y.'s 2021 paper ["Smart tree crop sprayer utilizing sensor fusion and artificial intelligence"](https://doi.org/10.1016/j.compag.2021.106556), leverages sensor fusion and AI to optimize pesticide and fertilizer applications in tree crop farming.
 
-This updated version uses an industrial lidar for reliability and later production and comercialization of the system.
+With the help of the SICK TiM561-2050101 LiDAR sensor and a real-time crop imaging camera, the smart sprayer analyzes the structure of tree canopies, adjusting its operations as needed. This improved system utilizes an industrial LiDAR sensor, enhancing its reliability and potential for future commercialization.
 
-The smart sprayer system is a groundbreaking innovation that uses sensor fusion and artificial intelligence (AI) to optimize the application of crop sprays in tree plantations. It collects data from a range of sensors including the SICK TiM561-2050101 LiDAR sensor, as well as a camera for real-time crop imaging. The AI analyzes this data to determine the presence and structure of the tree canopy, and then adjusts the operation of the sprayer in real time, enabling it to apply pesticides and fertilizers more efficiently.
+By reducing overspray and chemical usage, the smart sprayer enhances application accuracy and minimizes the environmental footprint of tree crop farming.
 
-By controlling the spray application based on actual tree presence and structure, the smart sprayer system minimizes overspray, reduces the amount of chemicals used, improves the accuracy of application, and can significantly reduce the environmental impact of tree crop farming.
-
-A video showcasing the system in action can be found [here](https://www.youtube.com/watch?v=qRd4g44b2lk). This video demonstrates how the system effectively controls the sprayer operation based on the real-time sensor data, validating the value and effectiveness of sensor fusion and AI in precision agriculture.
+For a practical demonstration of the system, watch this [video](https://www.youtube.com/watch?v=qRd4g44b2lk). Further information on the project can be found in the aforementioned paper.
 
 ### SICK TiM561-2050101 LiDAR Sensor
 
